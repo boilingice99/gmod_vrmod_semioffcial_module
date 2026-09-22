@@ -1,4 +1,4 @@
-# VRMod Semiofficial Module (v102)
+ # VRMod Semiofficial Module (v102)
 
 Enhanced C++ module for [VRMod](https://steamcommunity.com/workshop/filedetails/?id=1678408548) (Garry's Mod VR).
 
