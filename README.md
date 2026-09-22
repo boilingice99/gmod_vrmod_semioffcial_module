@@ -1,6 +1,6 @@
  # VRMod Semiofficial Module (v102)
 
-Enhanced C++ module for [VRMod](https://steamcommunity.com/workshop/filedetails/?id=1678408548) (Garry's Mod VR).
+Enhanced  C++ module for [VRMod](https://steamcommunity.com/workshop/filedetails/?id=1678408548) (Garry's Mod VR).
 
 Built from the original open-source VRMod module by **catse** (zlib license).
 
